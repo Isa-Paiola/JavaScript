@@ -6,7 +6,7 @@
 
 ## Calculadora🧮
 * Foi criada uma calculadora com a linguagem Java Script, que ao inserir dois valores era somado, subtraido, multiplicado ou dividido.
-![Captura de tela 2025-02-04 135223](https://github.com/user-attachments/assets/68aeb14d-f7aa-4303-919a-c6283ee918fe)
+![Captura de tela 2025-02-04 135552](https://github.com/user-attachments/assets/fcaa20d4-b265-4143-9c37-51ecf1e8de36)
 ![Captura de tela 2025-02-04 135430](https://github.com/user-attachments/assets/7307e11c-4100-49ba-ac5d-751141d0c933)
 
 
