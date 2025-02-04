@@ -1,0 +1,50 @@
+body{
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 92vh;
+}
+
+main{
+    padding: 50px;
+    background-color: rgb(255, 116, 213);
+    width: 220px;
+    border-radius: 5px;
+    margin-left: 40%;
+}
+button{
+    width: 100px;
+    height: 20px;
+    border-radius: 4px;
+    background-color:rgb(226, 49, 149);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    
+}
+
+button:hover{
+    background-color:rgb(244, 173, 223);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+
+}
+
+p{
+background-color: rgb(255, 255, 255);
+padding: 10px 20px;
+border-radius: 5px;
+width: 209px;
+}
+
+h1{
+    color: white;
+}
+
+input{
+    padding: 15px 20px;
+    width: 95%;
+    border: none;
+    border-radius: 5px;
+}
